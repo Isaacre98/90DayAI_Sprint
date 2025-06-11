@@ -27,7 +27,7 @@ Welcome! This repository documents my personal 90-day sprint to master AI founda
 
 ## 🧠 Why This Exists
 
-This sprint is part of my career pivot into AI. My background in psychology and analytics gives me a unique edge in understanding both data and human behavior — now I’m sharpening the technical edge with hands-on builds.
+This sprint is part of my career pivot into AI. My background in psychology and analytics gives me a unique edge in understanding both data and human behavior, now I’m sharpening the technical edge with hands-on builds.
 
 ---
 
