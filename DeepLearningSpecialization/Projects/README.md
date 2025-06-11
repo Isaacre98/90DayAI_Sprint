@@ -1,1 +1,0 @@
-This is the collection of the projects that I made during the Deep Learning Specialization by Andrew Ng. These are the first ML application that I will build and hope that they work as a base for my personal project.
